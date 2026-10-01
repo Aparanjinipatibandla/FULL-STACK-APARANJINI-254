@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sakshinya",
+    "age": "18",
+    "gender": "Female",
+    "email": "patibandlaaparanjini.24.csm@anits.edu.in",
+    "mobile": "1236549870",
+    "username": "sakshinya",
+    "password": "112358",
+    "address": "chirala"
+  },
+  {
+    "name": "pallavi",
+    "age": "18",
+    "gender": "Female",
+    "email": "pallavi@gmail.com",
+    "mobile": "1235468780",
+    "username": "pallavi",
+    "password": "123",
+    "address": "vizag"
+  }
+]
